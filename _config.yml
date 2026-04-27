@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
-title: nukkem's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Application 6 Demo
+description: This is the demo video for application 6. My chosen theme was theme park ride systems. Essentially this demo shows an RTOS for an omni-mover type ride which has all ride vehicles on the path and in motion. A button and a webpage controls whether the ride is in motion or stopped. A sensor triggers an emergency stop if a threshold gets passed. And a buzzer goes off when the ride is stopped to replicate an announcement being made.
